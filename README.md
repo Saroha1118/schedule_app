@@ -1,16 +1,9 @@
 # schedule
 
-A new Flutter project.
+一个基于Flutter实现的简单日程管理APP。
 
-## Getting Started
+## 简单介绍
 
-This project is a starting point for a Flutter application.
+核心代码在lib文件夹内。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+输出的apk文件在build\app\outputs内。
