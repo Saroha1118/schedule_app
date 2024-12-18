@@ -1,0 +1,4 @@
+#Wed Dec 18 20:04:15 CST 2024
+base.0=D\:\\schedule\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
